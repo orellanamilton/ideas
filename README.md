@@ -8,3 +8,5 @@ Excerpt From
 Git Apprentice
 By Chris Belanger and Bhagat Singh
 This material may be protected by copyright.
+
+Contact: support@razeware.com
